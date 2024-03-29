@@ -1,3 +1,3 @@
-# conceito de stream no bloc
+# Lear how to use bloc
 
 
